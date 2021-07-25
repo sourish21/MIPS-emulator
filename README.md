@@ -1,2 +1,2 @@
 # MIPS-emulator
-This emulates the MIPS architecture and processing of machine code instructions
+This emulates the MIPS architecture and processing of machine code instructions using c programming.
